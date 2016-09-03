@@ -1,0 +1,6 @@
+c:\users\dimitrije\documents\visual studio 2015\Projects\Kozola property\Kozola property\obj\Debug\Kozola property.csprojResolveAssemblyReference.cache
+C:\Users\Dimitrije\Documents\Visual Studio 2015\Projects\Kozola property\Kozola property\bin\Debug\Kozola property.exe.config
+C:\Users\Dimitrije\Documents\Visual Studio 2015\Projects\Kozola property\Kozola property\bin\Debug\Kozola property.exe
+C:\Users\Dimitrije\Documents\Visual Studio 2015\Projects\Kozola property\Kozola property\bin\Debug\Kozola property.pdb
+C:\Users\Dimitrije\Documents\Visual Studio 2015\Projects\Kozola property\Kozola property\obj\Debug\Kozola property.exe
+C:\Users\Dimitrije\Documents\Visual Studio 2015\Projects\Kozola property\Kozola property\obj\Debug\Kozola property.pdb
